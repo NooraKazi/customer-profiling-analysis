@@ -1,6 +1,6 @@
 🏃‍♂️ Preliminary Data Analysis – Cardio Good Fitness
 
-This project focuses on preliminary data analysis (PDA) of customer information from Cardio Good Fitness, a retail store selling treadmill products. The goal is to explore the dataset, practice extracting insights, and build confidence working with Python for data analysis.
+This project focuses on preliminary data analysis (PDA) of customer information from Cardio Good Fitness, a retail store selling treadmill products. The goal is to explore the dataset, practice extracting insights, and show confidence working with Python for data analysis.
 
 🎯 Objective
 
